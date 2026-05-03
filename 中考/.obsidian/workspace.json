@@ -1,0 +1,432 @@
+{
+  "main": {
+    "id": "4e0c7635f7c0e720",
+    "type": "split",
+    "children": [
+      {
+        "id": "e01009617fdab56f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df60bcfd9357bf5c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sd-wan/linux.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "linux"
+            }
+          },
+          {
+            "id": "39c7cb3346167291",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sd-wan/cedge.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "cedge"
+            }
+          },
+          {
+            "id": "ea7a5364acdd0094",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sd-wan/vtest/3. kvm.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "3. kvm"
+            }
+          },
+          {
+            "id": "be75b6116ca52cbc",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sd-wan/pdb.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "pdb"
+            }
+          },
+          {
+            "id": "43c62273c9ba10c0",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sd-wan/vtest/1. testbed - setup_machines.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "1. testbed - setup_machines"
+            }
+          },
+          {
+            "id": "66206375e123deb9",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sd-wan/terms.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "terms"
+            }
+          },
+          {
+            "id": "bda3dbebe8be5ec8",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "empty",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "5926a12884330b41",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cw/2026/04/r20_1_bender_config.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "r20_1_bender_config"
+            }
+          },
+          {
+            "id": "8ad1eb8c6ec0d31b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cw/2026/04/r18_0_avatar_config.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "r18_0_avatar_config"
+            }
+          },
+          {
+            "id": "54786ed4a89455d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cw/2026/01/r7_6_hydra_cu_10G_team.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "r7_6_hydra_cu_10G_team"
+            }
+          },
+          {
+            "id": "dae47e8e61d904b5",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cw/2025/11/r0_2_curie_dca_validation_2.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "r0_2_curie_dca_validation_2"
+            }
+          },
+          {
+            "id": "79dade045bfb1e0d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cw/2026/03/r12_2_curie_dca_auto.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "r12_2_curie_dca_auto"
+            }
+          },
+          {
+            "id": "94a2efa8d8ee00d4",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "empty",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "74904c88f4436b59",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "empty",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "4b33bc752dfb3442",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "几何/2026-05-05.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-05-05"
+            }
+          }
+        ],
+        "currentTab": 14
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ec177ac9da4b77d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb63494d8da6af0e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91fc9ff02d98adeb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "eaab19764462adc9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#一线三等角",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e23e43cd5801a1d0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "6a66af5d05dbabd3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 263
+  },
+  "right": {
+    "id": "ec6bbb582d33e24f",
+    "type": "split",
+    "children": [
+      {
+        "id": "17f272408394be66",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80a45fdbaed59fbf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "cw/2026/04/cw-17.md",
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of cw-17"
+            }
+          },
+          {
+            "id": "e708837ccb70a2ff",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "cw/2026/03/r9_9_styx-l_team_2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for r9_9_styx-l_team_2"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 389,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "zk-prefixer:Create new unique note": false,
+      "random-note:Open random note": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "4b33bc752dfb3442",
+  "lastOpenFiles": [
+    "README.txt",
+    "New Text Document.txt",
+    "New folder",
+    "几何/2026-05-04.md",
+    "几何/2026-05-14.md",
+    "几何/2026-05-05.md",
+    "几何/2026-04-28.md",
+    "几何/2026-04-27.md",
+    "几何/2026-05-02.md",
+    "screenshot/Pasted image 20260503003334.png",
+    "screenshot/Pasted image 20260503000604.png",
+    "screenshot/Pasted image 20260502235737.png",
+    "screenshot/Pasted image 20260502234736.png",
+    "screenshot/Pasted image 20260502233803.png",
+    "screenshot/Pasted image 20260502233226.png",
+    "screenshot/Pasted image 20260502232550.png",
+    "screenshot/Pasted image 20260502231514.png",
+    "几何/2026-05-01.md",
+    "几何/2026-04-30.md",
+    "screenshot/Pasted image 20260502230159.png",
+    "几何/2026-04-29.md",
+    "screenshot/Pasted image 20260502170918.png",
+    "screenshot",
+    "函数",
+    "几何",
+    "git/github.md",
+    "git/git.md",
+    "cw/2026/04/r19_11_4g_charon_topo1.md",
+    "cw/2026/04/r21_0_curie_dca_config.md",
+    "cw/2026/04/cw-17.md",
+    "cw/2026/04/r20_1_bender_config.md",
+    "cw/2026/03/r12_2_curie_dca_auto.md",
+    "cw/2026/01/teacat_CSCwr90710.md",
+    "cw/2026/03/r12_3_dca_full_run.log.md",
+    "cw/2026/03/r13_4_hydra_cu_team.md",
+    "cw/2025/11/r0_1_curie_dca_validation_1.md",
+    "cw/2026/02/r11_1_bender_topo1.md",
+    "cw/2026/02/r11_0_bender_rommon_3.3r.md",
+    "cw/2026/04/r20_0_bender_rommon_3.3r.md",
+    "cw/2025/11/r0_0_dca_validation_doc.md",
+    "cw/2025/11/r0_2_curie_dca_validation_2.md",
+    "cw/2026/03/Untitled",
+    "sd-wan/sed3QyU4Y",
+    "cw/2026/03/sedJrhdFf",
+    "cw/2026/01/sedLMW9EY",
+    "cw/2026/01/sedljaxA2",
+    "cw/2026/Untitled.canvas"
+  ]
+}

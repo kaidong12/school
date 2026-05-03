@@ -1,0 +1,14 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "markdown",
+      "path": "markdown.md"
+    },
+    {
+      "type": "file",
+      "title": "hotkey",
+      "path": "hotkey.md"
+    }
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "b4c0e75a9e0c260c",
+    "type": "split",
+    "children": [
+      {
+        "id": "804d3c16739e1061",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "dnac/magctl.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8f6c373f95863f26",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc2c87f72bcbee96",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "62ab612641b5459c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ffb0a24e1a7c5e0d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#ap",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f00395cd894aea64",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 272
+  },
+  "right": {
+    "id": "34dd7288b76753a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "0aaf28a5eb9e8864",
+        "type": "tabs",
+        "dimension": 53.136882129277566,
+        "children": [
+          {
+            "id": "2e82197e50febf23",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "dnac/magctl.md"
+              }
+            }
+          },
+          {
+            "id": "a37d9646252306d3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "24aeadb09bd01d45",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "dnac/magctl.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "5beb7c72afba2add",
+        "type": "tabs",
+        "dimension": 46.863117870722434,
+        "children": [
+          {
+            "id": "d9af93be154d01c6",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "dnac/magctl.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.2611986972429239,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 221
+  },
+  "active": "804d3c16739e1061",
+  "lastOpenFiles": [
+    "log/2022-05-18-patch.md",
+    "log/2022-11-11.md",
+    "k8s/kubectl.md",
+    "linux/shell.md",
+    "devices/AP4800-109.md",
+    "devices/AP4800-28.md",
+    "devices/AP3802-110.md",
+    "devices/AP3802-106.md",
+    "devices/AP2802-218.md",
+    "devices/AP9130-135.md"
+  ]
+}
