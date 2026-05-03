@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "3bf605f9672c221e",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9dd50c3c7b428b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "005011e78d223812",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "中考/几何/2026-05-14.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-05-14"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "444acbc82df9b792",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb98a84a27884f12",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d87b9fb89356eb62",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "fdd3ea68b8743669",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "61429dbf4a0c6767",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 357.5
+  },
+  "right": {
+    "id": "89c2ba742ac858af",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab7eb158e1791377",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a4ec3e76d5c95eee",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "5252735b46deed2c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "5f06c7cbc530fc7c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5aecf468e2db835e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "005011e78d223812",
+  "lastOpenFiles": [
+    "中考/几何/2026-05-05.md",
+    "中考/几何/2026-05-04.md",
+    "中考/几何/2026-05-02.md",
+    "中考/几何/2026-05-01.md",
+    "中考/几何/2026-04-30.md",
+    "中考/几何/2026-04-29.md",
+    "中考/几何/2026-04-27.md",
+    "中考/几何/2026-04-28.md",
+    "中考/screenshot/Pasted image 20260428235500.png",
+    "中考/screenshot/Pasted image 20260428235344.png",
+    "中考/screenshot/Pasted image 20260427090929.png",
+    "中考/screenshot/Pasted image 20260429003942.png"
+  ]
+}
