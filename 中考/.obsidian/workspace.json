@@ -12,16 +12,11 @@
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sd-wan/linux.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "pinned": true,
               "icon": "lucide-file",
-              "title": "linux"
+              "title": "New tab"
             }
           },
           {
@@ -227,18 +222,13 @@
             }
           },
           {
-            "id": "4b33bc752dfb3442",
+            "id": "4417d9fd60198521",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "几何/2026-05-05.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2026-05-05"
+              "title": "New tab"
             }
           }
         ],
@@ -274,7 +264,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#一线三等角",
+                "query": "辅助线的核心原理和底层逻辑",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -314,7 +304,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263
+    "width": 255
   },
   "right": {
     "id": "ec6bbb582d33e24f",
@@ -379,54 +369,54 @@
       "bases:Create new base": false
     }
   },
-  "active": "4b33bc752dfb3442",
+  "active": "4417d9fd60198521",
   "lastOpenFiles": [
-    "README.txt",
-    "New Text Document.txt",
-    "New folder",
-    "几何/2026-05-04.md",
-    "几何/2026-05-14.md",
-    "几何/2026-05-05.md",
-    "几何/2026-04-28.md",
-    "几何/2026-04-27.md",
-    "几何/2026-05-02.md",
-    "screenshot/Pasted image 20260503003334.png",
-    "screenshot/Pasted image 20260503000604.png",
-    "screenshot/Pasted image 20260502235737.png",
-    "screenshot/Pasted image 20260502234736.png",
-    "screenshot/Pasted image 20260502233803.png",
-    "screenshot/Pasted image 20260502233226.png",
-    "screenshot/Pasted image 20260502232550.png",
-    "screenshot/Pasted image 20260502231514.png",
-    "几何/2026-05-01.md",
-    "几何/2026-04-30.md",
-    "screenshot/Pasted image 20260502230159.png",
-    "几何/2026-04-29.md",
-    "screenshot/Pasted image 20260502170918.png",
-    "screenshot",
-    "函数",
-    "几何",
+    "几何/全等三角形模型/42-7.jpeg",
+    "几何/全等三角形模型/42-8.jpeg",
+    "几何/全等三角形模型/42-9.jpeg",
+    "几何/全等三角形模型/42-11.jpeg",
+    "几何/全等三角形模型/42-10.jpeg",
+    "几何/全等三角形模型/42-6.jpeg",
+    "几何/全等三角形模型/42-5.jpeg",
+    "几何/全等三角形模型/42-4.jpeg",
+    "几何/全等三角形模型/42-3.jpeg",
+    "几何/全等三角形模型/42-2.jpeg",
+    "几何/全等三角形模型/42-1.jpeg",
+    "几何/全等三角形模型/42-11.jpeg.crdownload",
+    "几何/全等三角形模型/42-10.jpeg.crdownload",
+    "几何/全等三角形模型/42-9.jpeg.crdownload",
+    "几何/全等三角形模型/42-8.jpeg.crdownload",
+    "几何/全等三角形模型/42-7.jpeg.crdownload",
+    "几何/全等三角形模型/42-6.jpeg.crdownload",
+    "几何/全等三角形模型/42-5.jpeg.crdownload",
+    "几何/全等三角形模型/42-4.jpeg.crdownload",
+    "几何/全等三角形模型/42-3.jpeg.crdownload",
+    "几何/全等三角形模型/42-2.jpeg.crdownload",
+    "几何/0. 视频列表.md",
+    "几何/w2/2026-05-05.md",
+    "几何/w2/2026-05-06.md",
+    "几何/2026-05-15.md",
+    "几何/2026-05-16.md",
+    "几何/w2/2026-05-07.md",
+    "几何/w3/2026-05-14.md",
+    "几何/w2/2026-05-04.md",
+    "几何/w2/2026-05-09.md",
+    "几何/w2/2026-05-08.md",
+    "几何/2026-05-20.md",
+    "几何/2026-05-19.md",
+    "几何/2026-05-18.md",
+    "几何/2026-05-17.md",
+    "几何/w1/2026-04-27.md",
+    "几何/w1/2026-05-02.md",
+    "几何/w1/2026-05-01.md",
+    "几何/w1/2026-04-30.md",
+    "几何/w1/2026-04-29.md",
+    "几何/w1/2026-04-28.md",
+    "几何/2026-05-10.md",
     "git/github.md",
     "git/git.md",
     "cw/2026/04/r19_11_4g_charon_topo1.md",
     "cw/2026/04/r21_0_curie_dca_config.md",
-    "cw/2026/04/cw-17.md",
-    "cw/2026/04/r20_1_bender_config.md",
-    "cw/2026/03/r12_2_curie_dca_auto.md",
-    "cw/2026/01/teacat_CSCwr90710.md",
-    "cw/2026/03/r12_3_dca_full_run.log.md",
-    "cw/2026/03/r13_4_hydra_cu_team.md",
-    "cw/2025/11/r0_1_curie_dca_validation_1.md",
-    "cw/2026/02/r11_1_bender_topo1.md",
-    "cw/2026/02/r11_0_bender_rommon_3.3r.md",
-    "cw/2026/04/r20_0_bender_rommon_3.3r.md",
-    "cw/2025/11/r0_0_dca_validation_doc.md",
-    "cw/2025/11/r0_2_curie_dca_validation_2.md",
-    "cw/2026/03/Untitled",
-    "sd-wan/sed3QyU4Y",
-    "cw/2026/03/sedJrhdFf",
-    "cw/2026/01/sedLMW9EY",
-    "cw/2026/01/sedljaxA2",
     "cw/2026/Untitled.canvas"
   ]
 }
