@@ -222,13 +222,18 @@
             }
           },
           {
-            "id": "4417d9fd60198521",
+            "id": "2b40abba29b0d8e9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "几何/w1/2026-04-27.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2026-04-27"
             }
           }
         ],
@@ -304,7 +309,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255
+    "width": 316
   },
   "right": {
     "id": "ec6bbb582d33e24f",
@@ -369,19 +374,33 @@
       "bases:Create new base": false
     }
   },
-  "active": "4417d9fd60198521",
+  "active": "2b40abba29b0d8e9",
   "lastOpenFiles": [
-    "几何/全等三角形模型/42-7.jpeg",
-    "几何/全等三角形模型/42-8.jpeg",
-    "几何/全等三角形模型/42-9.jpeg",
-    "几何/全等三角形模型/42-11.jpeg",
-    "几何/全等三角形模型/42-10.jpeg",
-    "几何/全等三角形模型/42-6.jpeg",
-    "几何/全等三角形模型/42-5.jpeg",
-    "几何/全等三角形模型/42-4.jpeg",
-    "几何/全等三角形模型/42-3.jpeg",
-    "几何/全等三角形模型/42-2.jpeg",
-    "几何/全等三角形模型/42-1.jpeg",
+    "几何/w1/2026-04-28.md",
+    "几何/w1/2026-04-29.md",
+    "几何/w1/2026-04-30.md",
+    "几何/w1/2026-05-01.md",
+    "几何/w1/2026-05-02.md",
+    "几何/w2/2026-05-04.md",
+    "几何/w2/2026-05-05.md",
+    "几何/w2/2026-05-06.md",
+    "几何/w2/2026-05-08.md",
+    "几何/w2/2026-05-09.md",
+    "几何/w2/2026-05-10.md",
+    "几何/w3/2026-05-14.md",
+    "几何/w1/2026-04-27.md",
+    "screenshot/Pasted image 20260510094117.png",
+    "几何/w4/2026-05-19.md",
+    "screenshot/Pasted image 20260510093924.png",
+    "screenshot/Pasted image 20260510093830.png",
+    "screenshot/Pasted image 20260510093726.png",
+    "screenshot/Pasted image 20260510093633.png",
+    "screenshot/Pasted image 20260510092451.png",
+    "几何/模型大全/6-1.jpg",
+    "几何/模型大全/1-6.jpeg",
+    "几何/模型大全/4-4.jpg",
+    "几何/模型大全/4-3.jpg",
+    "几何/0. 视频列表.md",
     "几何/全等三角形模型/42-11.jpeg.crdownload",
     "几何/全等三角形模型/42-10.jpeg.crdownload",
     "几何/全等三角形模型/42-9.jpeg.crdownload",
@@ -392,31 +411,16 @@
     "几何/全等三角形模型/42-4.jpeg.crdownload",
     "几何/全等三角形模型/42-3.jpeg.crdownload",
     "几何/全等三角形模型/42-2.jpeg.crdownload",
-    "几何/0. 视频列表.md",
-    "几何/w2/2026-05-05.md",
-    "几何/w2/2026-05-06.md",
     "几何/2026-05-15.md",
     "几何/2026-05-16.md",
-    "几何/w2/2026-05-07.md",
-    "几何/w3/2026-05-14.md",
-    "几何/w2/2026-05-04.md",
-    "几何/w2/2026-05-09.md",
-    "几何/w2/2026-05-08.md",
     "几何/2026-05-20.md",
     "几何/2026-05-19.md",
     "几何/2026-05-18.md",
     "几何/2026-05-17.md",
-    "几何/w1/2026-04-27.md",
-    "几何/w1/2026-05-02.md",
-    "几何/w1/2026-05-01.md",
-    "几何/w1/2026-04-30.md",
-    "几何/w1/2026-04-29.md",
-    "几何/w1/2026-04-28.md",
     "几何/2026-05-10.md",
     "git/github.md",
     "git/git.md",
     "cw/2026/04/r19_11_4g_charon_topo1.md",
-    "cw/2026/04/r21_0_curie_dca_config.md",
     "cw/2026/Untitled.canvas"
   ]
 }
