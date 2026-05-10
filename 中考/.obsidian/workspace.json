@@ -227,13 +227,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "几何/w1/2026-04-27.md",
-                "mode": "source",
+                "file": "几何/w2/2026-05-10.md",
+                "mode": "preview",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2026-04-27"
+              "title": "2026-05-10"
             }
           }
         ],
@@ -374,8 +374,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "2b40abba29b0d8e9",
+  "active": "91fc9ff02d98adeb",
   "lastOpenFiles": [
+    "几何/w2/2026-05-10.md",
+    "Untitled.md",
+    "几何/w2/2026-05-09.md",
+    "screenshot/Pasted image 20260510094117.png",
+    "screenshot/ChatGPT Image May 10, 2026, 12_32_48 PM.png",
+    "几何/w1/2026-04-27.md",
     "几何/w1/2026-04-28.md",
     "几何/w1/2026-04-29.md",
     "几何/w1/2026-04-30.md",
@@ -385,11 +391,7 @@
     "几何/w2/2026-05-05.md",
     "几何/w2/2026-05-06.md",
     "几何/w2/2026-05-08.md",
-    "几何/w2/2026-05-09.md",
-    "几何/w2/2026-05-10.md",
     "几何/w3/2026-05-14.md",
-    "几何/w1/2026-04-27.md",
-    "screenshot/Pasted image 20260510094117.png",
     "几何/w4/2026-05-19.md",
     "screenshot/Pasted image 20260510093924.png",
     "screenshot/Pasted image 20260510093830.png",
@@ -399,7 +401,6 @@
     "几何/模型大全/6-1.jpg",
     "几何/模型大全/1-6.jpeg",
     "几何/模型大全/4-4.jpg",
-    "几何/模型大全/4-3.jpg",
     "几何/0. 视频列表.md",
     "几何/全等三角形模型/42-11.jpeg.crdownload",
     "几何/全等三角形模型/42-10.jpeg.crdownload",
