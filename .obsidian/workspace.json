@@ -1,24 +1,25 @@
 {
   "main": {
-    "id": "3bf605f9672c221e",
+    "id": "4e0c7635f7c0e720",
     "type": "split",
     "children": [
       {
-        "id": "d9dd50c3c7b428b0",
+        "id": "b901ac3fb6f96443",
         "type": "tabs",
         "children": [
           {
-            "id": "005011e78d223812",
+            "id": "d289d2d340614368",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "中考/几何/2026-05-14.md",
+                "file": "中考/几何/w2/2026-05-04.md",
                 "mode": "source",
-                "source": false
+                "source": true,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2026-05-14"
+              "title": "2026-05-04"
             }
           }
         ]
@@ -27,15 +28,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "444acbc82df9b792",
+    "id": "ec177ac9da4b77d0",
     "type": "split",
     "children": [
       {
-        "id": "fb98a84a27884f12",
+        "id": "fb63494d8da6af0e",
         "type": "tabs",
         "children": [
           {
-            "id": "d87b9fb89356eb62",
+            "id": "91fc9ff02d98adeb",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,16 +45,16 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "文件列表"
+              "title": "Files"
             }
           },
           {
-            "id": "fdd3ea68b8743669",
+            "id": "eaab19764462adc9",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "辅助线的核心原理和底层逻辑",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +66,7 @@
             }
           },
           {
-            "id": "61429dbf4a0c6767",
+            "id": "e23e43cd5801a1d0",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -73,27 +74,58 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "6a66af5d05dbabd3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 357.5
+    "width": 316
   },
   "right": {
-    "id": "89c2ba742ac858af",
+    "id": "ec6bbb582d33e24f",
     "type": "split",
     "children": [
       {
-        "id": "ab7eb158e1791377",
+        "id": "17f272408394be66",
         "type": "tabs",
         "children": [
           {
-            "id": "a4ec3e76d5c95eee",
+            "id": "80a45fdbaed59fbf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "cw/2026/04/cw-17.md",
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of cw-17"
+            }
+          },
+          {
+            "id": "e708837ccb70a2ff",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "cw/2026/03/r9_9_styx-l_team_2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,82 +135,78 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
-            }
-          },
-          {
-            "id": "5252735b46deed2c",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links"
-            }
-          },
-          {
-            "id": "5f06c7cbc530fc7c",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "5aecf468e2db835e",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Backlinks for r9_9_styx-l_team_2"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 389,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "bases:新建数据库": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "zk-prefixer:Create new unique note": false,
+      "random-note:Open random note": false,
+      "bases:Create new base": false
     }
   },
-  "active": "005011e78d223812",
+  "active": "d289d2d340614368",
   "lastOpenFiles": [
-    "中考/几何/2026-05-05.md",
-    "中考/几何/2026-05-04.md",
-    "中考/几何/2026-05-02.md",
-    "中考/几何/2026-05-01.md",
-    "中考/几何/2026-04-30.md",
-    "中考/几何/2026-04-29.md",
-    "中考/几何/2026-04-27.md",
-    "中考/几何/2026-04-28.md",
-    "中考/screenshot/Pasted image 20260428235500.png",
-    "中考/screenshot/Pasted image 20260428235344.png",
-    "中考/screenshot/Pasted image 20260427090929.png",
-    "中考/screenshot/Pasted image 20260429003942.png"
+    "中考/几何/模型大全/1-2.jpeg",
+    "中考/几何/模型大全/1-1.jpeg",
+    "几何/w2/2026-05-10.md",
+    "Untitled.md",
+    "几何/w2/2026-05-09.md",
+    "screenshot/Pasted image 20260510094117.png",
+    "screenshot/ChatGPT Image May 10, 2026, 12_32_48 PM.png",
+    "几何/w1/2026-04-27.md",
+    "几何/w1/2026-04-28.md",
+    "几何/w1/2026-04-29.md",
+    "几何/w1/2026-04-30.md",
+    "几何/w1/2026-05-01.md",
+    "几何/w1/2026-05-02.md",
+    "几何/w2/2026-05-04.md",
+    "几何/w2/2026-05-05.md",
+    "几何/w2/2026-05-06.md",
+    "几何/w2/2026-05-08.md",
+    "几何/w3/2026-05-14.md",
+    "几何/w4/2026-05-19.md",
+    "screenshot/Pasted image 20260510093924.png",
+    "screenshot/Pasted image 20260510093830.png",
+    "screenshot/Pasted image 20260510093726.png",
+    "screenshot/Pasted image 20260510093633.png",
+    "screenshot/Pasted image 20260510092451.png",
+    "几何/模型大全/6-1.jpg",
+    "几何/模型大全/1-6.jpeg",
+    "几何/0. 视频列表.md",
+    "几何/全等三角形模型/42-11.jpeg.crdownload",
+    "几何/全等三角形模型/42-10.jpeg.crdownload",
+    "几何/全等三角形模型/42-9.jpeg.crdownload",
+    "几何/全等三角形模型/42-8.jpeg.crdownload",
+    "几何/全等三角形模型/42-7.jpeg.crdownload",
+    "几何/全等三角形模型/42-6.jpeg.crdownload",
+    "几何/全等三角形模型/42-5.jpeg.crdownload",
+    "几何/全等三角形模型/42-4.jpeg.crdownload",
+    "几何/全等三角形模型/42-3.jpeg.crdownload",
+    "几何/全等三角形模型/42-2.jpeg.crdownload",
+    "几何/2026-05-15.md",
+    "几何/2026-05-16.md",
+    "几何/2026-05-20.md",
+    "几何/2026-05-19.md",
+    "几何/2026-05-18.md",
+    "几何/2026-05-17.md",
+    "几何/2026-05-10.md",
+    "git/github.md",
+    "git/git.md",
+    "cw/2026/Untitled.canvas"
   ]
 }
