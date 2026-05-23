@@ -4,22 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "b901ac3fb6f96443",
+        "id": "398d4ee75ef2acfd",
         "type": "tabs",
         "children": [
           {
-            "id": "d289d2d340614368",
+            "id": "fe59316ae46ccc03",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "中考/几何/w2/2026-05-04.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": false
+                "file": "中考/几何/模型大全/12345.jpeg"
               },
-              "icon": "lucide-file",
-              "title": "2026-05-04"
+              "icon": "lucide-image",
+              "title": "12345"
             }
           }
         ]
@@ -54,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "辅助线的核心原理和底层逻辑",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316
+    "width": 350
   },
   "right": {
     "id": "ec6bbb582d33e24f",
@@ -159,54 +156,55 @@
       "bases:Create new base": false
     }
   },
-  "active": "d289d2d340614368",
+  "active": "fe59316ae46ccc03",
   "lastOpenFiles": [
-    "中考/几何/模型大全/1-2.jpeg",
+    "中考/几何/模型大全/4-4.jpg",
+    "中考/几何/模型大全/4-3.jpg",
+    "中考/几何/模型大全/4-2.jpg",
+    "中考/几何/模型大全/4-1.jpg",
+    "中考/几何/模型大全/3-3.jpg",
+    "中考/几何/模型大全/3-2.jpg",
+    "中考/几何/模型大全/3-1.jpg",
+    "中考/几何/模型大全/1-6.jpeg",
+    "中考/几何/模型大全/1-5.jpeg",
     "中考/几何/模型大全/1-1.jpeg",
-    "几何/w2/2026-05-10.md",
-    "Untitled.md",
-    "几何/w2/2026-05-09.md",
-    "screenshot/Pasted image 20260510094117.png",
-    "screenshot/ChatGPT Image May 10, 2026, 12_32_48 PM.png",
-    "几何/w1/2026-04-27.md",
-    "几何/w1/2026-04-28.md",
-    "几何/w1/2026-04-29.md",
-    "几何/w1/2026-04-30.md",
-    "几何/w1/2026-05-01.md",
-    "几何/w1/2026-05-02.md",
-    "几何/w2/2026-05-04.md",
-    "几何/w2/2026-05-05.md",
-    "几何/w2/2026-05-06.md",
-    "几何/w2/2026-05-08.md",
-    "几何/w3/2026-05-14.md",
-    "几何/w4/2026-05-19.md",
-    "screenshot/Pasted image 20260510093924.png",
-    "screenshot/Pasted image 20260510093830.png",
-    "screenshot/Pasted image 20260510093726.png",
-    "screenshot/Pasted image 20260510093633.png",
-    "screenshot/Pasted image 20260510092451.png",
-    "几何/模型大全/6-1.jpg",
-    "几何/模型大全/1-6.jpeg",
-    "几何/0. 视频列表.md",
+    "中考/几何/模型大全/42-1.jpeg",
+    "中考/几何/w3/2026-05-16.md",
+    "中考/几何/w3/2026-05-17.md",
+    "中考/几何/w3/2026-05-15.md",
+    "中考/几何/w3/2026-05-131.md",
+    "中考/几何/w3/2026-05-211.md",
+    "中考/几何/w14/2026-06-16.md",
+    "中考/几何/w3/2026-05-11.md",
+    "中考/几何/w3/2026-05-12.md",
+    "中考/几何/w3/2026-05-13.md",
+    "中考/几何/w1/2026-04-30.md",
+    "中考/几何/w3/2026-05-18.md",
+    "中考/几何/w14/2026-06-01.md",
+    "中考/几何/w14/2026-06-19.md",
+    "中考/几何/w2/2026-05-10.md",
+    "中考/几何/w2/2026-05-05.md",
+    "中考/几何/w3/2026-05-20.md",
+    "中考/几何/北京几综.md",
+    "Untitled.canvas",
+    "中考/几何/w3/2026-05-14.md",
+    "中考/几何/w4/2026-06-01.md",
+    "中考/几何/w3/2026-05-19.md",
+    "中考/几何/w3/2026-05-22.md",
+    "中考/几何/w3/2026-05-21.md",
+    "中考/几何/w2/2026-05-09.md",
+    "中考/几何/w2/2026-05-08.md",
+    "中考/几何/w2/2026-05-04.md",
+    "中考/几何/w4",
+    "中考/几何/w3/Untitled",
+    "中考/几何/w15",
+    "screenshot",
     "几何/全等三角形模型/42-11.jpeg.crdownload",
     "几何/全等三角形模型/42-10.jpeg.crdownload",
     "几何/全等三角形模型/42-9.jpeg.crdownload",
     "几何/全等三角形模型/42-8.jpeg.crdownload",
     "几何/全等三角形模型/42-7.jpeg.crdownload",
     "几何/全等三角形模型/42-6.jpeg.crdownload",
-    "几何/全等三角形模型/42-5.jpeg.crdownload",
-    "几何/全等三角形模型/42-4.jpeg.crdownload",
-    "几何/全等三角形模型/42-3.jpeg.crdownload",
-    "几何/全等三角形模型/42-2.jpeg.crdownload",
-    "几何/2026-05-15.md",
-    "几何/2026-05-16.md",
-    "几何/2026-05-20.md",
-    "几何/2026-05-19.md",
-    "几何/2026-05-18.md",
-    "几何/2026-05-17.md",
-    "几何/2026-05-10.md",
-    "git/github.md",
-    "git/git.md",
     "cw/2026/Untitled.canvas"
   ]
 }
