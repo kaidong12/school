@@ -4,118 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "398d4ee75ef2acfd",
+        "id": "60668bd50d9de284",
         "type": "tabs",
         "children": [
           {
-            "id": "fe59316ae46ccc03",
+            "id": "4d67d290476d8233",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "相似三角形/相似三角形——新定义问题.md",
+                "file": "中考/几何/二模/2025/2025-10-静安.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "相似三角形——新定义问题"
-            }
-          },
-          {
-            "id": "5ed4a675729b3a00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "相似三角形/八字模型.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "八字模型"
-            }
-          },
-          {
-            "id": "6732e15b0fea8636",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "0fd712ca4b590b97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "二次函数/面积最值.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "面积最值"
-            }
-          },
-          {
-            "id": "a7489e3cb9876d15",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "相似三角形/八字模型.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "八字模型"
-            }
-          },
-          {
-            "id": "204a5b8df5466736",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "相似三角形/手拉手模型.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "手拉手模型"
-            }
-          },
-          {
-            "id": "959298dfb0f57a5e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "中考/二次函数/一般式，顶点式.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "一般式，顶点式"
+              "title": "2025-10-静安"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -149,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#TODO",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -157,7 +64,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "搜索"
             }
           },
           {
@@ -165,27 +72,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
-            }
-          },
-          {
-            "id": "6a66af5d05dbabd3",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
               "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": ""
               },
-              "icon": "lucide-tags",
-              "title": "Tags"
+              "icon": "lucide-bookmark",
+              "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -198,29 +94,15 @@
       {
         "id": "17f272408394be66",
         "type": "tabs",
+        "dimension": 83.40517241379311,
         "children": [
-          {
-            "id": "80a45fdbaed59fbf",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "cw/2026/04/cw-17.md",
-                "followCursor": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of cw-17"
-            }
-          },
           {
             "id": "e708837ccb70a2ff",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cw/2026/03/r9_9_styx-l_team_2.md",
+                "file": "中考/几何/二模/2026-05-崇明.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,15 +112,52 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for r9_9_styx-l_team_2"
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "9af88852e51c8ec8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "15fcf86edef1fa34",
+        "type": "tabs",
+        "dimension": 16.594827586206897,
+        "children": [
+          {
+            "id": "4f41ed4b12c98f2e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "中考/几何/二模/2025/2025-10-静安.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 389,
-    "collapsed": true
+    "width": 518.333251953125
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -254,55 +173,55 @@
       "bases:新建数据库": false
     }
   },
-  "active": "91fc9ff02d98adeb",
+  "active": "4d67d290476d8233",
   "lastOpenFiles": [
-    "中考/二次函数/面积最值.md",
-    "中考/几何/相似三角形/八字模型.md",
-    "中考/几何/相似三角形/手拉手模型.md",
-    "中考/几何/相似三角形/未命名.md",
-    "中考/几何/相似三角形/相似三角形——新定义问题.md",
-    "中考/几何/相似三角形/相似三角形的存在性.md",
-    "中考/几何/相似三角形/一线三等角模型.md",
-    "screenshot/Pasted image 20260808112124.png",
-    "screenshot/Pasted image 20260808111252.png",
-    "未命名",
-    "中考/二次函数/一般式，顶点式.md",
-    "screenshot/Pasted image 20260806104730.png",
-    "screenshot/Pasted image 20260806104618.png",
-    "screenshot/Pasted image 20260806103705.png",
+    "中考/几何/二模/2025/2025-15-崇明.md",
+    "中考/几何/二模/2025/2025-14-宝山.md",
+    "中考/几何/二模/2025/2025-13-长宁.md",
+    "中考/几何/二模/2025/2025-10-静安.md",
+    "中考/几何/二模/2025/2025-16-奉贤.md",
+    "中考/几何/二模/2025/2025-01-杨浦.md",
+    "中考/几何/二模/2026/2026-16-杨浦.md",
+    "中考/几何/二模/2026",
+    "中考/几何/二模/2025",
+    "中考/几何/二模/2025/2025-03-徐汇.md",
+    "中考/几何/二模/2025/2025-08-嘉定.md",
+    "中考/几何/二模/2025/2025-05-虹口.md",
+    "中考/几何/二模/2025/2025-12-青浦.md",
+    "screenshot/Pasted image 20260923155156.png",
+    "screenshot/Pasted image 20260923155136.png",
+    "screenshot/Pasted image 20260923155114.png",
+    "screenshot/Pasted image 20260923154307.png",
+    "screenshot/Pasted image 20260923154135.png",
+    "screenshot/Pasted image 20260923151912.png",
+    "screenshot/Pasted image 20260923151858.png",
+    "screenshot/Pasted image 20260923151150.png",
+    "screenshot/Pasted image 20260923150818.png",
+    "screenshot/Pasted image 20260923150633.png",
+    "中考/几何/二模/解题思路.md",
+    "中考/几何/二模/2024-上海.md",
+    "中考/几何/二模/2025/2025-11-浦东.md",
+    "中考/几何/二模/2025/2025-09-闵行.md",
+    "中考/几何/二模/2025/2025-07-松江.md",
+    "中考/几何/二模/2025/2025-06-金山.md",
+    "中考/几何/二模/2026/2026-10-金山.md",
+    "中考/几何/二模/2025/2025-04-普陀.md",
+    "中考/几何/二模/2025/2025-02-黄浦.md",
+    "中考/几何/二模/2026/2026-15-青浦.md",
+    "中考/几何/二模/2026/2026-14-浦东.md",
+    "中考/几何/二模/2026/2026-13-长宁.md",
+    "中考/几何/二模/2026/2026-12-普陀.md",
+    "中考/几何/二模/2026/2026-11-奉贤.md",
+    "中考/几何/二模",
     "Untitled.canvas",
+    "未命名",
     "二次函数/未命名.canvas",
     "中考/二次函数",
-    "二次函数.md",
-    "screenshot/Pasted image 20260805194151.png",
-    "screenshot/Pasted image 20260805103326.png",
-    "screenshot/Pasted image 20260805120112.png",
-    "screenshot/Pasted image 20260805120025.png",
-    "screenshot/Pasted image 20260805112345.png",
     "中考/几何/相似三角形",
-    "中考/几何/w3/2026-05-20.md",
-    "中考/几何/北京几综.md",
-    "中考/几何/0. 视频列表.md",
-    "中考/几何/w15 1/2026-07-04.md",
-    "中考/几何/w15 1/2026-07-03.md",
-    "中考/几何/w15 1/2026-07-01.md",
-    "中考/几何/w15 1/2026-07-02.md",
     "中考/几何/w15 1",
-    "中考/几何/w3/2026-05-14.md",
-    "中考/几何/w3/2026-05-13.md",
-    "中考/几何/w3/2026-05-11.md",
-    "中考/几何/w3/2026-05-12.md",
-    "中考/几何/w2/2026-05-04.md",
-    "中考/几何/w2/2026-05-05.md",
-    "中考/几何/w2/2026-05-06.md",
-    "中考/几何/w2/2026-05-08.md",
-    "中考/几何/w2/2026-05-09.md",
     "中考/几何/w4",
     "中考/几何/w3/Untitled",
     "中考/几何/w15",
-    "screenshot",
-    "几何/全等三角形模型/42-11.jpeg.crdownload",
-    "几何/全等三角形模型/42-10.jpeg.crdownload",
     "cw/2026/Untitled.canvas"
   ]
 }
